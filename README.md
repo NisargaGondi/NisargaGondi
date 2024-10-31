@@ -1,4 +1,5 @@
 ## Hi there 👋
+![visitors](https://vbr.nathanchung.dev/badge?page_id=NisargaGondi.NisargaGondi&color=00cf00)
 
 <!--
 **NisargaGondi/NisargaGondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
