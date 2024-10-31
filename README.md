@@ -19,6 +19,13 @@ Here are some ideas to get you started:
   <img height="265" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
 </div>
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+-> 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 great intentions to change the world with technology.
+-> 💼 Looking for an Internship or part-time position.🤞
+-> 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 and Engineering 𝚏𝚛𝚘𝚖 B.M.S College of Engineering, Bangalore, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸5
+-> 💻Machine Learning and Security Enthusiast.
+-> I'm an astrophile.🧑‍🚀🌌🚀
+
 ###
 
 <h3 align="left">🧑‍💻 Tools and Languages</h3>
@@ -89,7 +96,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NisargaGondi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
-###
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nisarga-gondi-471751249/" target="_blank">
