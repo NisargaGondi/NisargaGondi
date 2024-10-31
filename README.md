@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 </div>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
--> 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 great intentions to change the world with technology.\n
--> 💼 Looking for an Internship or part-time position.🤞
--> 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 and Engineering 𝚏𝚛𝚘𝚖 B.M.S College of Engineering, Bangalore, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸5
--> 💻Machine Learning and Security Enthusiast.
--> I'm an astrophile.🧑‍🚀🌌🚀
+- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 great intentions to change the world with technology.\n
+- 💼 Looking for an Internship or part-time position.🤞
+- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 and Engineering 𝚏𝚛𝚘𝚖 B.M.S College of Engineering, Bangalore, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸5
+- 💻Machine Learning and Security Enthusiast.
+- I'm an astrophile.🧑‍🚀🌌🚀
 
 ## 🚀 I Love leading, here's my encyclopedic Portfolio to understand me as a whole.
 
