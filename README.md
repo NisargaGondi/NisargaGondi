@@ -1,5 +1,5 @@
 ## Hi there 👋
-![visitors](https://vbr.nathanchung.dev/badge?page_id=NisargaGondi.NisargaGondi&color=1A3C40)
+<!-- ![visitors](https://vbr.nathanchung.dev/badge?page_id=NisargaGondi.NisargaGondi&color=1A3C40) -->
 
 <!--
 **NisargaGondi/NisargaGondi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💼 Looking for an Internship or part-time position.🤞
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 and Engineering 𝚏𝚛𝚘𝚖 B.M.S College of Engineering, Bangalore, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸5
 - 💻Machine Learning and Security Enthusiast.
-- I'm an astrophile.🧑‍🚀🌌🚀
+- 🧑‍🚀🌌🚀I'm an astrophile.
 
 ## 🚀 I Love leading, here's my encyclopedic Portfolio to understand me as a whole.
 
