@@ -126,11 +126,11 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
+<!--<div align="left">
   <a href="https://open.spotify.com/user/sou3po2x0cqwff14dwm175mue">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=sou3po2x0cqwff14dwm175mue&count=3&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
 
