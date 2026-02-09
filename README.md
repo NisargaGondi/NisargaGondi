@@ -7,10 +7,10 @@
 ## About Me
 
 **Graduate Student @ Carnegie Mellon University**  
-MS in AI Engineering with Information Security focus, Class of 2027
+MS in AI Engineering - Information Security, Class of 2027
 
 **Research Assistant @ CMU CyLab**  
-Working on adversarial machine learning defenses for security-critical applications, specifically SMS scam detection systems and model robustness against adaptive adversaries.
+Working on Adversarial Machine Learning + Information Security
 
 **Previous Experience:**
 - 🔬 **Samsung R&D Bangalore** - Built production ML pipeline for notification classification using ONNX Runtime
@@ -18,12 +18,11 @@ Working on adversarial machine learning defenses for security-critical applicati
 - 📊 **Published Researcher** - IEEE Conference paper on multi-constraint time series imputation
 
 **Current Focus:**
+- Information Security, Usable Privacy and Security
 - Adversarial ML defenses and model robustness
-- Production ML systems and deployment
 - Security vulnerabilities in ML applications
-- Autonomous systems and infrastructure automation
 
-**Seeking:** Summer 2026 internships in ML/AI Engineering, Security Engineering, or Platform Infrastructure roles at companies building production-scale ML systems.
+**Seeking:** Summer 2026 internships in  Security Engineering, ML/AI Engineering.
 
 ---
 
