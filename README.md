@@ -32,7 +32,7 @@ Graduate research on adversarial robustness for text classifiers at CMU CyLab. E
 ### [Multi-Constraint Time Series Imputation](https://github.com/NisargaGondi/DynamicIterativeImputation)
 Published at IEEE 2024. Novel framework for handling missing values in sensor data by sequencing 12 imputation algorithms across multiple constraints. Achieved 60% RMSE reduction on production datasets.
 
-### [Disaster Management UAV](https://github.com/NisargaGondi/aerothon-uav)
+### [Disaster Management UAV](https://sites.google.com/view/nisargagondi/projects/aerothon24?authuser=0)
 **All India Rank 7** - Aerothon 2024 National Competition  
 Autonomous UAV system for disaster zone reconnaissance with real-time computer vision and GPS-denied navigation.
 
