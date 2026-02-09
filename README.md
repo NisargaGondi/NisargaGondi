@@ -196,6 +196,7 @@ Autonomous UAV system for disaster zone reconnaissance with real-time computer v
   </a>
 </div>
 
+
 **Email:** nisargagondi@gmail.com
 
 **Portfolio:** Google Sites (https://sites.google.com/view/nisargagondi/home)
