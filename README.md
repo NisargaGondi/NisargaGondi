@@ -1,7 +1,7 @@
 ## Nisarga Gondi
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"  />
 </div>
 
 **MS AI Engineering - InfoSec @ Carnegie Mellon University** | Class of 2027  
