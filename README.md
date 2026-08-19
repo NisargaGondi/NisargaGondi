@@ -4,7 +4,7 @@
 
 **MS Artificial Intelligence Engineering – Information Security** @ Carnegie Mellon (INI) · **Research** @ CyLab
 
-Applied ML and AI-security systems — LLM-agent defenses, on-device inference, agentic automation.
+Applied ML and AI-security systems: LLM-agent defenses, on-device inference, agentic automation.
 
 **Research:** Self-Evolving Defense (SED) · SMS scam detection (Quik) · [JailVax](https://github.com/NisargaGondi/JailVax) (formal LLM jailbreak defense)  
 **Industry:** Ericsson (5G cloud tooling) · Samsung Prism (ONNX, 93.15% accuracy)  
@@ -22,6 +22,6 @@ Applied ML and AI-security systems — LLM-agent defenses, on-device inference, 
 | [JailVax](https://github.com/NisargaGondi/JailVax) | Adversarial self-play + Z3 verification for LLM jailbreak defense |
 | [DynamicIterativeImputation](https://github.com/NisargaGondi/DynamicIterativeImputation) | IEEE 2024 — multi-constraint time series imputation (60% RMSE reduction) |
 
-**Stack:** Python · PyTorch · LangGraph · Kotlin/Android · ONNX · Kubernetes · PostgreSQL
+**Stack:** Python · Machine Learning · AI Security · LangGraph · Kotlin/Android · Kubernetes · PostgreSQL
 
 <br clear="right"/>
