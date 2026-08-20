@@ -10,7 +10,7 @@ Applied ML and AI-security systems: LLM-agent defenses, on-device inference, age
 **Industry:** Ericsson (5G cloud tooling) · Samsung Prism (ONNX, 93.15% accuracy)  
 **Publications:** IEEE INDIACom 2024 (lead author) · IAES IJAI 2026 (accepted) · ARR ACL 2026 (in review)
 
-[Portfolio](https://nisargagondi.github.io) · [LinkedIn](https://linkedin.com/in/nisarga-gondi) · ngondi@andrew.cmu.edu · [GitHub](https://github.com/NisargaGondi)
+[Portfolio](https://nisargagondi.github.io) · [LinkedIn](https://linkedin.com/in/nisarga-gondi) · ngondi@andrew.cmu.edu
 
 ---
 
